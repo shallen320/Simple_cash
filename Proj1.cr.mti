@@ -1,0 +1,64 @@
+E:/my_modelsim/my_modelsim/ece254a/Proj1/databuf.v {1 {vlog -work work -nocovercells {E:\my_modelsim\my_modelsim\ece254a\Proj1\databuf.v}
+Model Technology ModelSim PE Student Edition vlog 10.0c Compiler 2011.07 Jul 22 2011
+-- Compiling module databuf
+
+Top level modules:
+	databuf
+
+} {} {}} E:/my_modelsim/my_modelsim/ece254a/Proj1/cache.v {1 {vlog -work work -nocovercells {E:\my_modelsim\my_modelsim\ece254a\Proj1\cache.v}
+Model Technology ModelSim PE Student Edition vlog 10.0c Compiler 2011.07 Jul 22 2011
+-- Compiling module cache
+
+Top level modules:
+	cache
+
+} {} {}} E:/my_modelsim/my_modelsim/ece254a/Proj1/databuf_tb.v {1 {vlog -work work -nocovercells {E:\my_modelsim\my_modelsim\ece254a\Proj1\databuf_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.0c Compiler 2011.07 Jul 22 2011
+-- Compiling module databuf_tb
+
+Top level modules:
+	databuf_tb
+
+} {} {}} E:/my_modelsim/my_modelsim/ece254a/Proj1/addrbuf.v {1 {vlog -work work -nocovercells {E:\my_modelsim\my_modelsim\ece254a\Proj1\addrbuf.v}
+Model Technology ModelSim PE Student Edition vlog 10.0c Compiler 2011.07 Jul 22 2011
+-- Compiling module addrbuf
+
+Top level modules:
+	addrbuf
+
+} {} {}} E:/my_modelsim/my_modelsim/ece254a/Proj1/Processor.v {1 {vlog -work work -nocovercells {E:\my_modelsim\my_modelsim\ece254a\Proj1\Processor.v}
+Model Technology ModelSim PE Student Edition vlog 10.0c Compiler 2011.07 Jul 22 2011
+-- Compiling module processor
+
+Top level modules:
+	processor
+
+} {} {}} E:/my_modelsim/my_modelsim/ece254a/Proj1/memory.v {1 {vlog -work work -nocovercells {E:\my_modelsim\my_modelsim\ece254a\Proj1\memory.v}
+Model Technology ModelSim PE Student Edition vlog 10.0c Compiler 2011.07 Jul 22 2011
+-- Compiling module memory
+
+Top level modules:
+	memory
+
+} {} {}} E:/my_modelsim/my_modelsim/ece254a/Proj1/cache_tb.v {1 {vlog -work work -nocovercells {E:\my_modelsim\my_modelsim\ece254a\Proj1\cache_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.0c Compiler 2011.07 Jul 22 2011
+-- Compiling module cache_tb
+
+Top level modules:
+	cache_tb
+
+} {} {}} E:/my_modelsim/my_modelsim/ece254a/Proj1/memory_tb.v {1 {vlog -work work -nocovercells {E:\my_modelsim\my_modelsim\ece254a\Proj1\memory_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.0c Compiler 2011.07 Jul 22 2011
+-- Compiling module memory_tb
+
+Top level modules:
+	memory_tb
+
+} {} {}} E:/my_modelsim/my_modelsim/ece254a/Proj1/cach_mem_tb.v {1 {vlog -work work -nocovercells {E:\my_modelsim\my_modelsim\ece254a\Proj1\cach_mem_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.0c Compiler 2011.07 Jul 22 2011
+-- Compiling module cach_mem_tb
+
+Top level modules:
+	cach_mem_tb
+
+} {} {}}
